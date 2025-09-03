@@ -21,7 +21,7 @@ We have a variety of GitHub templates for Working Group community interaction.
 - [`./.github/DISCUSSION_TEMPLATE/`](./.github/DISCUSSION_TEMPLATE/)
   - [`./.github/DISCUSSION_TEMPLATE/general.yml`](./.github/DISCUSSION_TEMPLATE/general.yml)
     - Usage: For general discussions related to this specific working group.
-    - Form link: <https://github.com/erlef/libs-and-frameworks/discussions/new?category=general-discussion>
+    - Form link: <https://github.com/erlef/libs-and-frameworks/discussions/new?category=general>
   - [`./.github/DISCUSSION_TEMPLATE/meeting-notes.yml`](./.github/DISCUSSION_TEMPLATE/meeting-notes.yml)
     - Usage: Creating during meetings for clerical notes and summaries; this allows non-attendees to see most of what was talked about.
     - Form link: <https://github.com/erlef/libs-and-frameworks/discussions/new?category=meeting-notes>
